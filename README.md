@@ -1,43 +1,29 @@
-# Family Web App 👨‍👩‍👧‍👦
+# 👨‍👩‍👧‍👦 Family Web App
 
-A modern, responsive web application built with **Next.js**, **TypeScript**, and **Tailwind CSS**, designed for managing family profiles and interactions.
+A responsive family management web app built with **Next.js**, **TypeScript**, and **Tailwind CSS**. It helps families stay connected and organized with modern UI and essential features.
+
+## 🔗 Live Demo
+👉 [View App](https://family-web-app-olive.vercel.app)
 
 ## 🌟 Features
-
-- 🔐 Login, Sign Up, Forgot Password & Reset Password
-- 👤 View and Edit Family Member Profiles
-- ❤️ Favorite Members
-- 🔔 Notification Settings (Toggle ON/OFF)
+- 👤 Login / Sign Up / Forgot & Reset Password
+- 🧑‍💼 View & Manage Profiles
+- ❤️ Add & Favorite Family Members
+- 🔔 Notification Toggle System
 - 💰 Donation Section
-- 🌙 Light & Dark Mode Support
-- 📅 Date Picker for Profile Birth Dates
-- 🔍 Search Functionality
+- 🌍 Multi-language Support (Planned)
+- 📅 Date of Birth Picker
+- 📸 Upload Profile Picture
+- 🔎 Search Family Members
 
-## 🚀 Getting Started
-
-1. Clone the repository  
-   `git clone https://github.com/Etsuba191/family-web-app.git`
-
-2. Navigate into the project folder  
-   `cd family-web-app`
-
-3. Install dependencies  
-   `npm install`
-
-4. Run the app  
-   `npm run dev`
+## 🛠️ Tech Stack
+- Framework: **Next.js**
+- Language: **TypeScript**
+- Styling: **Tailwind CSS**
+- Icons: **Lucide React**
+- State: **useState, useEffect**
+- Deployment: **Vercel**
 
 ## 📁 Folder Structure
-
-- `/app` – Main app components and pages  
-- `/components` – Reusable UI components  
-- `/lib` – Helper functions and utilities  
-- `/public` – Static assets like images and icons
-
-## 🛠️ Built With
-
-- [Next.js](https://nextjs.org/)  
-- [TypeScript](https://www.typescriptlang.org/)  
-- [Tailwind CSS](https://tailwindcss.com/)  
-- [Shadcn/UI](https://ui.shadcn.com/)
+Organized with reusable components, custom hooks, and clear folder separation.
 

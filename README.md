@@ -3,7 +3,7 @@
 A responsive family management web app built with **Next.js**, **TypeScript**, and **Tailwind CSS**. It helps families stay connected and organized with modern UI and essential features.
 
 ## 🔗 Live Demo
-👉 [View App](https://family-web-app-olive.vercel.app)
+👉 [View App](https://family-web-app-o4a5-efzub4udt-etsubdinkenyew-3453s-projects.vercel.app)
 
 ## 🌟 Features
 - 👤 Login / Sign Up / Forgot & Reset Password
